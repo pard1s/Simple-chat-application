@@ -1,0 +1,84 @@
+﻿<Window x:Class="chatAPP.Client"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:chatAPP"
+        mc:Ignorable="d"
+        Title="Client" Height="528.61" Width="804.689" 
+        WindowStyle="ThreeDBorderWindow" ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Window.Background>
+        <ImageBrush>
+            <ImageBrush.ImageSource>
+                <BitmapImage UriSource="images/bg3.jpg"/>
+            </ImageBrush.ImageSource>
+        </ImageBrush>
+    </Window.Background>
+    <Grid>
+        <Label Content="from:" HorizontalAlignment="Left" 
+               VerticalAlignment="Top" Margin="50,105,0,0" 
+               Foreground="White"/>
+        <Label Content="message:" HorizontalAlignment="Left" 
+               Margin="30,216,0,0" VerticalAlignment="Top" 
+               Foreground="White"/>
+        <TextBox HorizontalAlignment="Left" Height="28" 
+                 x:Name="txtMyusername"
+                 Margin="91,103,0,0" TextWrapping="Wrap" 
+                 Text="" VerticalAlignment="Top" Width="280" 
+                 VerticalContentAlignment="Center" IsReadOnly="True" 
+                 Background="{x:Null}" Foreground="White"/>
+        <Label Content="to:" HorizontalAlignment="Left" 
+               VerticalAlignment="Top" Margin="50,148,0,0" 
+               Foreground="White"/>
+        <TextBox HorizontalAlignment="Left" Height="28" x:Name="txtDestusername"
+            Margin="91,146,0,0" TextWrapping="Wrap" 
+            Text="" VerticalAlignment="Top" Width="280" 
+                 VerticalContentAlignment="Center"/>
+        <TextBox HorizontalAlignment="Left" Height="113" x:Name="txtMessage"
+            Margin="92,216,0,0" TextWrapping="Wrap" 
+            Text="" VerticalAlignment="Top" Width="280" 
+                 HorizontalScrollBarVisibility="Auto" 
+                 UseLayoutRounding="False"/>
+        <Button Content="Send" Foreground="#404040" Click="btnSend_Click"
+            FontSize="12" FontWeight="SemiBold" x:Name="btnSend"
+            Margin="70,357,609.4,74.2" IsDefault="True">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="white"/>
+                    <Setter Property="Cursor" Value="Hand" />
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" 
+                                    Value="#e6e6e6" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="70" Height="30"
+                        CornerRadius="5" BorderThickness="1" 
+                            BorderBrush="#737373"
+                        Background="{TemplateBinding Background}">
+                        <ContentPresenter VerticalAlignment="Center"
+                            HorizontalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label Content="Log:" HorizontalAlignment="Left" 
+            VerticalAlignment="Top" Margin="453,37,0,0" 
+            Foreground="White"/>
+        <TextBox HorizontalAlignment="Left" Height="379" x:Name="txtLog"
+                 Margin="453,68,0,0" TextWrapping="Wrap" 
+                 Text="" VerticalAlignment="Top" Width="282" 
+                 IsReadOnly="True" ClipToBounds="True" 
+                 HorizontalScrollBarVisibility="Visible" 
+                 VerticalScrollBarVisibility="Visible" 
+                 Background="#4CFFFFFF" BorderBrush="White" 
+                 Foreground="White"/>
+
+
+    </Grid>
+</Window>

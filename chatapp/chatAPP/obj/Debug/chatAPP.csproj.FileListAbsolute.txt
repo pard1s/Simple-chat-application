@@ -1,0 +1,120 @@
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\chatAPP.exe.config
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\chatAPP.exe
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\chatAPP.pdb
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\SimpleTcp.dll
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\SimpleTcp.xml
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\chatAPP.csprojAssemblyReference.cache
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\MainWindow.g.cs
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\App.g.cs
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\chatAPP_MarkupCompile.cache
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\chatAPP_MarkupCompile.lref
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\MainWindow.baml
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\chatAPP.g.resources
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\chatAPP.Properties.Resources.resources
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\chatAPP.csproj.GenerateResource.cache
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\chatAPP.csproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\chatAPP.csproj.CopyComplete
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\chatAPP.exe
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\chatAPP.pdb
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\Client.g.cs
+C:\Users\hi\Desktop\network project\chatAPP\obj\Debug\Client.baml
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\EntityFramework.dll
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\System.Data.SQLite.dll
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\EntityFramework.xml
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hi\Desktop\network project\chatAPP\bin\Debug\System.Data.SQLite.xml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\chatAPP.exe.config
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\chatAPP.exe
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\chatAPP.pdb
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\EntityFramework.dll
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\SimpleTcp.dll
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\System.Data.SQLite.dll
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\EntityFramework.xml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\SimpleTcp.xml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\bin\Debug\System.Data.SQLite.xml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.csprojAssemblyReference.cache
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\Client.g.cs
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\MainWindow.g.cs
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\App.g.cs
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP_MarkupCompile.cache
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP_MarkupCompile.lref
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\Client.baml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\MainWindow.baml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.g.resources
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.Properties.Resources.resources
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.csproj.GenerateResource.cache
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.csproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.csproj.CopyComplete
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.exe
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.pdb
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.csprojAssemblyReference.cache
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\Client.g.cs
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\MainWindow.g.cs
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\App.g.cs
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP_MarkupCompile.cache
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP_MarkupCompile.lref
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.exe
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.pdb
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\chatAPP.exe.config
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\chatAPP.exe
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\chatAPP.pdb
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\EntityFramework.dll
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\EntityFramework.SqlServer.dll
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\Newtonsoft.Json.dll
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\SimpleTcp.dll
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\System.Data.SQLite.dll
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\System.Data.SQLite.EF6.dll
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\System.Data.SQLite.Linq.dll
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\EntityFramework.xml
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\EntityFramework.SqlServer.xml
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\Newtonsoft.Json.xml
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\SimpleTcp.xml
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\bin\Debug\System.Data.SQLite.xml
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\Client.baml
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\MainWindow.baml
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.g.resources
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.Properties.Resources.resources
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.csproj.GenerateResource.cache
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.csproj.CoreCompileInputs.cache
+F:\refrences\network\pardis ghavami - final project\network project\chatAPP\obj\Debug\chatAPP.csproj.CopyComplete
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\chatAPP.exe.config
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\chatAPP.exe
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\chatAPP.pdb
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\EntityFramework.dll
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\EntityFramework.SqlServer.dll
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\Newtonsoft.Json.dll
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\SimpleTcp.dll
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\System.Data.SQLite.dll
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\System.Data.SQLite.EF6.dll
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\System.Data.SQLite.Linq.dll
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\EntityFramework.xml
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\EntityFramework.SqlServer.xml
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\Newtonsoft.Json.xml
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\SimpleTcp.xml
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\bin\Debug\System.Data.SQLite.xml
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\chatAPP.csprojAssemblyReference.cache
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\Client.g.cs
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\MainWindow.g.cs
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\App.g.cs
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\chatAPP_MarkupCompile.cache
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\chatAPP_MarkupCompile.lref
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\Client.baml
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\MainWindow.baml
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\chatAPP.g.resources
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\chatAPP.Properties.Resources.resources
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\chatAPP.csproj.GenerateResource.cache
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\chatAPP.csproj.CoreCompileInputs.cache
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\chatAPP.csproj.CopyComplete
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\chatAPP.exe
+F:\refrences\project\pardis ghavami - final project\project\chatAPP\obj\Debug\chatAPP.pdb
