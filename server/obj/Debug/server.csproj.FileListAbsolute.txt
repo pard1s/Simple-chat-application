@@ -1,0 +1,80 @@
+C:\Users\hi\Desktop\network project\server\bin\Debug\server.exe.config
+C:\Users\hi\Desktop\network project\server\bin\Debug\server.exe
+C:\Users\hi\Desktop\network project\server\bin\Debug\server.pdb
+C:\Users\hi\Desktop\network project\server\bin\Debug\SimpleTcp.dll
+C:\Users\hi\Desktop\network project\server\bin\Debug\SimpleTcp.xml
+C:\Users\hi\Desktop\network project\server\obj\Debug\MainWindow.g.cs
+C:\Users\hi\Desktop\network project\server\obj\Debug\App.g.cs
+C:\Users\hi\Desktop\network project\server\obj\Debug\server_MarkupCompile.cache
+C:\Users\hi\Desktop\network project\server\obj\Debug\server_MarkupCompile.lref
+C:\Users\hi\Desktop\network project\server\obj\Debug\MainWindow.baml
+C:\Users\hi\Desktop\network project\server\obj\Debug\server.g.resources
+C:\Users\hi\Desktop\network project\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\hi\Desktop\network project\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\hi\Desktop\network project\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\network project\server\obj\Debug\server.csproj.CopyComplete
+C:\Users\hi\Desktop\network project\server\obj\Debug\server.exe
+C:\Users\hi\Desktop\network project\server\obj\Debug\server.pdb
+C:\Users\hi\Desktop\network project\server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hi\Desktop\network project\server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hi\Desktop\network project\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\bin\Debug\server.exe.config
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\bin\Debug\server.exe
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\bin\Debug\server.pdb
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\bin\Debug\SimpleTcp.dll
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\bin\Debug\SimpleTcp.xml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\MainWindow.g.cs
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\App.g.cs
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\server_MarkupCompile.cache
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\server_MarkupCompile.lref
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\MainWindow.baml
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\server.g.resources
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\server.csproj.CopyComplete
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\server.exe
+C:\Users\hi\Desktop\pardis ghavami - final project\network project\server\obj\Debug\server.pdb
+F:\refrences\network\pardis ghavami - final project\network project\server\bin\Debug\server.exe.config
+F:\refrences\network\pardis ghavami - final project\network project\server\bin\Debug\server.exe
+F:\refrences\network\pardis ghavami - final project\network project\server\bin\Debug\server.pdb
+F:\refrences\network\pardis ghavami - final project\network project\server\bin\Debug\Newtonsoft.Json.dll
+F:\refrences\network\pardis ghavami - final project\network project\server\bin\Debug\SimpleTcp.dll
+F:\refrences\network\pardis ghavami - final project\network project\server\bin\Debug\Newtonsoft.Json.xml
+F:\refrences\network\pardis ghavami - final project\network project\server\bin\Debug\SimpleTcp.xml
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\server.csprojAssemblyReference.cache
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\MainWindow.g.cs
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\App.g.cs
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\server_MarkupCompile.cache
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\server_MarkupCompile.lref
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\MainWindow.baml
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\server.g.resources
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\server.Properties.Resources.resources
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\server.csproj.GenerateResource.cache
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\server.csproj.CopyComplete
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\server.exe
+F:\refrences\network\pardis ghavami - final project\network project\server\obj\Debug\server.pdb
+F:\refrences\project\pardis ghavami - final project\project\server\bin\Debug\server.exe.config
+F:\refrences\project\pardis ghavami - final project\project\server\bin\Debug\server.exe
+F:\refrences\project\pardis ghavami - final project\project\server\bin\Debug\server.pdb
+F:\refrences\project\pardis ghavami - final project\project\server\bin\Debug\Newtonsoft.Json.dll
+F:\refrences\project\pardis ghavami - final project\project\server\bin\Debug\SimpleTcp.dll
+F:\refrences\project\pardis ghavami - final project\project\server\bin\Debug\Newtonsoft.Json.xml
+F:\refrences\project\pardis ghavami - final project\project\server\bin\Debug\SimpleTcp.xml
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\server.csprojAssemblyReference.cache
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\MainWindow.g.cs
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\App.g.cs
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\server_MarkupCompile.cache
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\server_MarkupCompile.lref
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\MainWindow.baml
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\server.g.resources
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\server.Properties.Resources.resources
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\server.csproj.GenerateResource.cache
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\server.csproj.CopyComplete
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\server.exe
+F:\refrences\project\pardis ghavami - final project\project\server\obj\Debug\server.pdb
